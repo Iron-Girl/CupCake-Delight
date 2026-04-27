@@ -1,7 +1,7 @@
-echo "# Project-Zombicide" >> README.md
+echo "# CupCake-Delight" >> README.md
 git init
 git add README.md
 git commit -m "first commit"
 git branch -M main
-git remote add origin https://github.com/Iron-Girl/Project-Zombicide.git
+git remote add origin https://github.com/Iron-Girl/CupCake-Delight.git
 git push -u origin main
