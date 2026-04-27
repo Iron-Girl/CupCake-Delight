@@ -1,0 +1,75 @@
+.lora-cupcake-delight {
+  font-family: "Lora", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+body{
+    text-align: center;
+}
+
+div.nav div.nav-bar{
+    background-color:#58266859
+}
+
+div.nav div.nav-bar ul li{
+    display: inline-block;
+    margin: 0;
+    padding: 0;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+div.nav div.nav-bar ul li a{
+    text-decoration: none;
+}
+
+h1{
+    color: #e9068b;
+}
+
+
+div.hero div.hero-backgroud{
+    position: relative;
+    z-index: 0;
+}
+
+div.hero div.hero-background img{
+    width: 100%;
+    height: 100%;
+    opacity: 0.5;
+}
+
+div.hero div.hero-text{
+    position: absolute;
+    font-size: 50px;
+    bottom: 100px;
+    left: 450px;
+}
+
+p{
+    font-size: 20px;
+    color: #572668;
+    margin-left: 500px;
+    margin-right: 500px;
+}
+
+div.contact-info{
+    position: absolute;
+    right: 500px;
+    margin-top: 100px
+}
+
+div.image-map{
+    position: relative;
+    left: 300px;
+}
+
+h5{
+    font-size: 15px;
+    color: #572668;
+}
+
+footer{
+    background-color: #e9068a46;
+}
